@@ -19,7 +19,6 @@ Ibnu Medical Center is for Humanity. We care about your healthy life. Medical ca
 -   Cross platform
 -   Google Authentication
 -   Firebase
--   Testing
 
 ## FAQ
 
@@ -29,4 +28,4 @@ Yes, Including Private Route with Google Authentication.
 
 #### Any CSS Frameworks?
 
-Bootstrap - 5
+Tailwind CSS
