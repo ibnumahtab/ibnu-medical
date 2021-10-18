@@ -19,6 +19,7 @@ Ibnu Medical Center is for Humanity. We care about your healthy life. Medical ca
 -   Cross platform
 -   Google Authentication
 -   Firebase
+-   Testing
 
 ## FAQ
 
