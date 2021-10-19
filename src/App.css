@@ -20,3 +20,7 @@ body {
     background-color: #00000030;
     border: 1px solid #8080804d;
 }
+
+input:focus {
+    outline: 0;
+}
