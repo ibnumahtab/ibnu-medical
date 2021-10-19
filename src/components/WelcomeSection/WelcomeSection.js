@@ -4,11 +4,11 @@ const WelcomeSection = () => {
     return (
         <div className="py-5">
             <div className="container mx-auto">
-                <div className="flex items-center">
-                    <div className="w-1/2 px-8">
+                <div className="md:flex items-center">
+                    <div className="md:w-1/2 px-8">
                         <img src={welcome} alt="" />
                     </div>
-                    <div className="w-1/2 p-4">
+                    <div className="md:w-1/2 p-4">
                         <h2>The Best Medical And General Practice Care!</h2>
                         <h2 className="text-4xl pt-4 primary-color font-bold">
                             Improving The Quality Of Your Life Through Better

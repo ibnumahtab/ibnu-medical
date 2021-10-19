@@ -6,19 +6,19 @@ import SingleService from '../SingleService/SingleService';
 const ServiceSection = () => {
     const [services] = useService();
     return (
-        <div className="border py-10 m-5 shadow-lg">
-            <div className="container mx-auto p-12 px-24">
-                <h2 className="text-5xl primary-color text-center pt-4">
+        <div className="border p-5 md:py-10 m-5 shadow-lg">
+            <div className="container mx-auto  md:p-12 md:px-24">
+                <h2 className="text-2xl md:text-5xl primary-color text-center pt-4">
                     Caring For The Health Of You And Your Family.
                 </h2>
-                <p className="w-2/3 text-lg leading-8 mx-auto py-4 pb-10 text-center">
+                <p className="w-full md:w-2/3 text-lg leading-8 mx-auto py-4 pb-10 md:text-center text-justify">
                     Health caring elicits trust, fuller patient disclosure, and
                     accurate assessment of the goals of care. It heightens
                     patient satisfaction and decreases the likelihood of
                     complaints or litigation. Health caring might even enhance
                     job satisfaction.
                 </p>
-                <div className="grid grid-cols-3 gap-4">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     {services.slice(0, 6).map(service => (
                         <SingleService
                             key={service.id}
