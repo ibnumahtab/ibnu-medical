@@ -50,17 +50,11 @@ const SignUp = () => {
                                 <input
                                     onBlur={getPassword}
                                     className="w-full border-b rounded py-2 pl-4"
-                                    type="text"
+                                    type="password"
                                     placeholder="Password"
                                 />
                             </div>
                             <div>
-                                <input
-                                    className="mr-2"
-                                    type="checkbox"
-                                    name=""
-                                    id=""
-                                />
                                 Creating an account means you are okay with our
                                 Terms of Service and Privacy Policy
                             </div>

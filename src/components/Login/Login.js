@@ -30,7 +30,7 @@ const Login = () => {
                             <div className="mb-3">
                                 <input
                                     className="w-full border-b rounded py-2 pl-4"
-                                    type="text"
+                                    type="password"
                                     placeholder="Password"
                                 />
                             </div>
