@@ -1,33 +1,29 @@
 import React from 'react';
-import HeroBg from '../../img/hero-bg.jpg'
+import HeroBg from '../../img/hero-bg.jpg';
 
 const HeroSection = () => {
     return (
         <div
-            className='overflow-hidden'
+            className="overflow-hidden"
             style={{
-                background: `linear-gradient(rgba(20, 60, 255, 0.7), rgb(20, 60, 255, 0.7)),url(${HeroBg})`,
+                background: `url(${HeroBg})`,
+                backgroundRepeat: 'no-repeat',
                 backgroundAttachment: 'fixed',
-                backgroundSize: "cover",
+                backgroundSize: 'cover',
             }}
         >
-            <div className='container mx-auto pb-24'>
-                <div className='w-2/3'>
-                    <div className='glass-effect rounded-md my-12 p-8'>
-                        <h2 className='text-black font-semibold'>WELCOME TO OUR CLINIC</h2>
-                        <h1 className='text-6xl text-white font-semibold my-4'>
-                            TAKE CARE OF <br />
-                            YOUR HEALTH
+            <div className="container mx-auto pb-24">
+                <div className="w-2/4">
+                    <div className="glass-effect rounded-md my-12 p-8">
+                        <h1 className="text-6xl text-black font-semibold my-4">
+                            Find The Best Doctor Near By You!
                         </h1>
-                        <p>
-                            Feugiat primis ligula risus auctor egestas augue
-                            mauri lorem viverratortor in iaculis placerat eugiat
-                            mauris ipsum in viverra tortor and gravida purus
-                            pretium lorem primis in orci integer
+                        <p className="text-white text-xl leading-7">
+                            Qualified doctors available six days a week, view
+                            our timetable to make an appointment. Please feel
+                            free to contact our friendly reception staff with
+                            any general or medical enquiry.
                         </p>
-                        <button className='bg-blue-500 px-4 text-white py-2 mt-4 rounded'>
-                            More About Our Clinic
-                        </button>
                     </div>
                 </div>
             </div>
