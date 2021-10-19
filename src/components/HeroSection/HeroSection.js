@@ -12,10 +12,10 @@ const HeroSection = () => {
                 backgroundSize: 'cover',
             }}
         >
-            <div className="container mx-auto pb-24">
+            <div className="container mx-auto py-24">
                 <div className="w-2/4">
                     <div className="glass-effect rounded-md my-12 p-8">
-                        <h1 className="text-6xl text-black font-semibold my-4">
+                        <h1 className="text-6xl primary-color font-semibold my-4">
                             Find The Best Doctor Near By You!
                         </h1>
                         <p className="text-white text-xl leading-7">
