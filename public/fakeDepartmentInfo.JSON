@@ -1,0 +1,90 @@
+[
+    {
+        "deptId": "01",
+        "deptName": "Eye Care",
+        "deptDesc": "Doc House has one of the largest and most experienced practices in the United States, with campuses in Arizona, Florida and Minnesota. Staff skilled in dozens of specialties work together to ensure quality care and successful recovery.",
+        "deptImg": "https://i.ibb.co/vmX10JV/eye-care.jpg",
+        "totalDoc": "15",
+        "successfullPatient": "5000+"
+    },
+    {
+        "deptId": "02",
+        "deptName": "Dental Care",
+        "deptDesc": "Doc House has one of the largest and most experienced practices in the United States, with campuses in Arizona, Florida and Minnesota. Staff skilled in dozens of specialties work together to ensure quality care and successful recovery.",
+        "deptImg": "https://i.ibb.co/s1XqRkf/dental-care.jpg",
+        "totalDoc": "15",
+        "successfullPatient": "5000+"
+    },
+    {
+        "deptId": "03",
+        "deptName": "Primary Care",
+        "deptDesc": "Doc House has one of the largest and most experienced practices in the United States, with campuses in Arizona, Florida and Minnesota. Staff skilled in dozens of specialties work together to ensure quality care and successful recovery.",
+        "deptImg":"https://i.ibb.co/9ybfPPw/primary-care.jpg",
+        "totalDoc": "19",
+        "successfullPatient": "5000+"
+    },
+    {
+        "deptId": "04",
+        "deptName": "Medicine",
+        "deptDesc": "Doc House has one of the largest and most experienced practices in the United States, with campuses in Arizona, Florida and Minnesota. Staff skilled in dozens of specialties work together to ensure quality care and successful recovery.",
+        "deptImg": "https://i.ibb.co/QNLZJkB/medicine.jpg",
+        "totalDoc": "17",
+        "successfullPatient": "5000+"
+    },
+    {
+        "deptId": "05",
+        "deptName": "Orthopedic",
+        "deptDesc": "Doc House has one of the largest and most experienced practices in the United States, with campuses in Arizona, Florida and Minnesota. Staff skilled in dozens of specialties work together to ensure quality care and successful recovery.",
+        "deptImg": "https://i.ibb.co/gSVCsS0/orthopedic.jpg",
+        "totalDoc": "15",
+        "successfullPatient": "1700+"
+    },
+    {
+        "deptId": "06",
+        "deptName": "Cardiology",
+        "deptDesc": "Doc House has one of the largest and most experienced practices in the United States, with campuses in Arizona, Florida and Minnesota. Staff skilled in dozens of specialties work together to ensure quality care and successful recovery.",
+        "deptImg": "https://i.ibb.co/Z6yc3xj/cardiology.jpg",
+        "totalDoc": "8",
+        "successfullPatient": "1300+"
+    },
+    {
+        "deptId": "07",
+        "deptName": "Gynecology",
+        "deptDesc": "Doc House has one of the largest and most experienced practices in the United States, with campuses in Arizona, Florida and Minnesota. Staff skilled in dozens of specialties work together to ensure quality care and successful recovery.",
+        "deptImg": "https://i.ibb.co/pXG6xkj/gynecology.jpg",
+        "totalDoc": "25",
+        "successfullPatient": "4000+"
+    },
+    {
+        "deptId": "08",
+        "deptName": "Neurology",
+        "deptDesc": "Doc House has one of the largest and most experienced practices in the United States, with campuses in Arizona, Florida and Minnesota. Staff skilled in dozens of specialties work together to ensure quality care and successful recovery.",
+        "deptImg": "https://i.ibb.co/ZSHmsnq/neurology.jpg",
+        "totalDoc": "12",
+        "successfullPatient": "3200+"
+    },
+    {
+        "deptId": "09",
+        "deptName": "Baby Care",
+        "deptDesc": "Doc House has one of the largest and most experienced practices in the United States, with campuses in Arizona, Florida and Minnesota. Staff skilled in dozens of specialties work together to ensure quality care and successful recovery.",
+        "deptImg": "https://i.ibb.co/m5Xr9h9/baby-care.jpg",
+        "totalDoc": "15",
+        "successfullPatient": "5000+"
+    },
+    {
+        "deptId": "10",
+        "deptName": "Diabetes",
+        "deptDesc": "Doc House has one of the largest and most experienced practices in the United States, with campuses in Arizona, Florida and Minnesota. Staff skilled in dozens of specialties work together to ensure quality care and successful recovery.",
+        "deptImg": "https://i.ibb.co/88gkXHZ/diabets.jpg",
+        "totalDoc": "5",
+        "successfullPatient": "2000+"
+    }
+]
+
+
+
+
+
+
+
+

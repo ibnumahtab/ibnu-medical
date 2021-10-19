@@ -1,0 +1,110 @@
+[
+    {
+        "testId": "01",
+        "testName": "X-Ray Diagnostic",
+        "testDesc": "X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body. The images show the parts of your body in different shades of black and white.",
+        "testFullDesc": "X-rays are a type of radiation called electromagnetic waves. X-ray imaging creates pictures of the inside of your body. The images show the parts of your body in different shades of black and white. This is because different tissues absorb different amounts of radiation. Calcium in bones absorbs x-rays the most, so bones look white. Fat and other soft tissues absorb less and look gray. Air absorbs the least, so lungs look black.The most familiar use of x-rays is checking for fractures (broken bones), but x-rays are also used in other ways. For example, chest x-rays can spot pneumonia. Mammograms use x-rays to look for breast cancer.When you have an x-ray, you may wear a lead apron to protect certain parts of your body. The amount of radiation you get from an x-ray is small. For example, a chest x-ray gives out a radiation dose similar to the amount of radiation you're naturally exposed to from the environment over 10 days.",
+        "testCurrFee": "325",
+        "testPrevFee": "400",
+        "testIcon":"https://i.ibb.co/7bNTq4K/x-ray-icon.png",
+        "testImg": "https://i.ibb.co/zFLPVpm/The-doctor-is-analyzing-and-clarifying-images-of-the-patient-s-lung-X-rays.jpg"
+    },
+    {
+        "testId": "02",
+        "testName": "Blood Glucose Test",
+        "testDesc": "A blood glucose test measures the glucose levels in your blood. Glucose is a type of sugar. It is your body's main source of energy. A hormone called insulin helps move glucose from your bloodstream into your cells.",
+        "testFullDesc": "A health care professional will take a blood sample from a vein in your arm, using a small needle. After the needle is inserted, a small amount of blood will be collected into a test tube or vial. You may feel a little sting when the needle goes in or out. For some types of glucose blood tests, you will need to drink a sugary drink before your blood is drawn.If you have diabetes, your health care provider may recommend a kit to monitor your blood sugar at home. Most kits include a device to prick your finger (lancet). You will use this to collect a drop of blood for testing. There are some newer kits available that don’t require pricking your finger. For more information on at-home test kits, talk to your health care provider.",
+        "testCurrFee": "125",
+        "testPrevFee": "200",
+        "testIcon": "https://i.ibb.co/Qf0XdKF/blood-test-icon.png",
+        "testImg": "https://i.ibb.co/1sDqqvL/blood-test.jpg"
+    },
+    {
+        "testId": "03",
+        "testName": "Blood Oxygen Level",
+        "testDesc": "A blood oxygen level test, also known as a blood gas analysis, measures the amount of oxygen and carbon dioxide in the blood. When you breathe, your lungs take in (inhale) oxygen and breathe out (exhale) carbon dioxide. If there is an imbalance in the oxygen and carbon dioxide levels in your blood, it can mean your lungs aren't working well.",
+        "testFullDesc": "Most blood tests take a sample from a vein. For this test, a health care provider will take a sample of blood from an artery. That's because blood from an artery has higher oxygen levels than blood from a vein. The sample is usually taken from an artery inside the wrist. This is called the radial artery. Sometimes the sample is taken from an artery in the elbow or the groin. If a newborn is being tested, the sample may be taken from the baby's heel or umbilical cord.During the procedure, your provider will insert a needle with a syringe into the artery. You may feel a sharp pain as the needle goes into the artery. Getting a blood sample from an artery is usually more painful than getting blood from a vein, a more common type of blood test procedure.Once the syringe is filled with blood, your provider will put a bandage over the puncture site. After the procedure, you or a provider will need to apply firm pressure to the site for 5–10 minutes, or even longer if you are taking a blood-thinning medicine.",
+        "testCurrFee": "190",
+        "testPrevFee": "235",
+        "testIcon": "https://i.ibb.co/3B1FVSV/blood-oxyzen.png",
+        "testImg": "https://i.ibb.co/hVQYqdx/blood-oxyzen.jpg"
+    },
+    {
+        "testId": "04",
+        "testName": "Cholesterol Levels",
+        "testDesc": "Cholesterol is a waxy, fat-like substance that's found in your blood and every cell of your body. You need some cholesterol to keep your cells and organs healthy. Your liver makes all the cholesterol your body needs. But you can also get cholesterol from the foods you eat, especially meat, eggs, poultry, and dairy products. Foods that are high in dietary fat can also make your liver produce more cholesterol.",
+        "testFullDesc": "The best recommendation for children and adolescents to keep cholesterol levels in check is living a healthful, active lifestyle. This includes eating a healthful diet and getting plenty of exercise.Sedentary, overweight children who eat a diet high in processed foods are most likely to have high cholesterol. Children who have a family history of high cholesterol may also be at risk.Generally, the earlier an adult starts living a healthful lifestyle, the better for their cholesterol levels. Cholesterol levels build over time. A sudden change in lifestyle will help eventually, but the older a person is, the less impact they will see in cholesterol levels.All adults should stay active and maintain regular exercise routines. Women going through menopause and adults with high levels of cholesterol may want to consider medication that will help reduce cholesterol levels more rapidly than diet alone.High cholesterol at any age puts a person at risk for heart disease, heart attack, and strokes. These risks only increase over time, especially for adults who are not taking action to reduce their cholesterol buildup.",
+        "testCurrFee": "230",
+        "testPrevFee": "285",
+        "testIcon": "https://i.ibb.co/gP7MBFK/cholesterol-icon.png",
+        "testImg": "https://i.ibb.co/t3rCLkf/cholesterol-test.jpg"
+    },
+    {
+        "testId": "05",
+        "testName": "Electrocardiogram",
+        "testDesc": "An electrocardiogram (EKG) test is a simple, painless procedure that measures electrical signals in your heart. Each time your heart beats, an electrical signal travels through the heart. An EKG can show if your heart is beating at a normal rate and strength. It also helps show the size and position of your heart's chambers. An abnormal EKG can be a sign of heart disease or damage.",
+        "testFullDesc": "An electrocardiogram (EKG) test is a simple, painless procedure that measures electrical signals in your heart. Each time your heart beats, an electrical signal travels through the heart. An EKG can show if your heart is beating at a normal rate and strength. It also helps show the size and position of your heart's chambers. An abnormal EKG can be a sign of heart disease or damage.There are several different ways an ECG can be carried out. Generally, the test involves attaching a number of small, sticky sensors called electrodes to your arms, legs and chest. These are connected by wires to an ECG recording machine.You don't need to do anything special to prepare for the test. You can eat and drink as normal beforehand.Before the electrodes are attached, you'll usually need to remove your upper clothing, and your chest may need to be shaved or cleaned. Once the electrodes are in place, you may be offered a hospital gown to cover yourself.The test itself usually only lasts a few minutes, and you should be able to go home soon afterwards or return to the ward if you're already staying in hospital.",
+        "testCurrFee": "525",
+        "testPrevFee": "745",
+        "testIcon": "https://i.ibb.co/KrFjRwT/electrocardiogram-icon.png",
+        "testImg": "https://i.ibb.co/xCnz1ms/electro-cardiogram.jpg"
+    },
+    {
+        "testId": "06",
+        "testName": "Hemoglobin Test",
+        "testDesc": "A hemoglobin test measures the levels of hemoglobin in your blood. Hemoglobin is a protein in your red blood cells that carries oxygen from your lungs to the rest of your body. If your hemoglobin levels are abnormal, it may be a sign that you have a blood disorder.",
+        "testFullDesc": "A hemoglobin test measures the levels of hemoglobin in your blood. Hemoglobin is a protein in your red blood cells that carries oxygen from your lungs to the rest of your body. If your hemoglobin levels are abnormal, it may be a sign that you have a blood disorder.A hemoglobin test is often used to check for anemia, a condition in which your body has fewer red blood cells than normal. If you have anemia, your cells don't get all the oxygen they need. Hemoglobin tests are also frequently performed with other tests, such as:Hematocrit, which measures the percentage of red blood cells in your bloodComplete blood count, which measures the number and type of cells in your blood",
+        "testCurrFee": "325",
+        "testPrevFee": "435",
+        "testIcon": "https://i.ibb.co/TvyQFzC/hemoglobin-icon.png",
+        "testImg": "https://i.ibb.co/RNNxCM2/hemoglobin-test.jpg"
+    },
+    {
+        "testId": "07",
+        "testName": "Flu (Influenza) Test",
+        "testDesc": "Influenza, known as the flu, is a respiratory infection caused by a virus. The flu virus usually spreads from person to person through coughing or sneezing. You can also get the flu by touching a surface that has the flu virus on it, and then touching your own nose or eyes.",
+        "testFullDesc": "Influenza, known as the flu, is a respiratory infection caused by a virus. The flu virus usually spreads from person to person through coughing or sneezing. You can also get the flu by touching a surface that has the flu virus on it, and then touching your own nose or eyes.The flu is most common during certain times of the year, known as flu season. In the United States, flu season can begin as early as October and end as late as May. During each flu season, millions of Americans get the flu. Most people who get the flu will feel sick with muscle aches, fever, and other uncomfortable symptoms, but will recover within a week or so. For others, the flu can cause very serious illness, and even death.A flu test can help your health care provider figure out if you have the flu, so you can get treated earlier. Early treatment may help lessen the symptoms of the flu. There are a few different types of flu tests. The most common is called the rapid influenza antigen test, or rapid influenza diagnostic test. This type of test can provide results in less than half an hour, but is not as accurate as some other types of flu tests. More sensitive tests may require your health care provider to send samples to a specialized lab.Other names: rapid flu test, influenza antigen test, rapid influenza diagnostic test, RIDT, Flu PCR",
+        "testCurrFee": "225",
+        "testPrevFee": "315",
+        "testIcon": "https://i.ibb.co/QNDTz0P/flu-icon.png",
+        "testImg": "https://i.ibb.co/Nt5GzND/flu-test.jpg"
+    },
+    {
+        "testId": "08",
+        "testName": "Malaria Tests",
+        "testDesc": "Malaria is a serious disease caused by a parasite. Parasites are tiny plants or animals that get nutrients by living off another creature. Parasites that cause malaria are passed to humans through the bite of infected mosquitos. At first, malaria symptoms may be similar to those of the flu. Later on, malaria can lead to life-threatening complications.",
+        "testFullDesc": "Malaria is a serious disease caused by a parasite. Parasites are tiny plants or animals that get nutrients by living off another creature. Parasites that cause malaria are passed to humans through the bite of infected mosquitos. At first, malaria symptoms may be similar to those of the flu. Later on, malaria can lead to life-threatening complications.Malaria is not contagious like a cold or flu, but it can be spread from person to person by mosquitos. If a mosquito bites an infected person, it will spread the parasite to anyone it bites afterward. If you are bitten by an infected mosquito, the parasites will travel into your bloodstream. The parasites will multiply inside your red blood cells and cause illness. Malaria tests look for signs of a malaria infection in the blood.Malaria is common in tropical and subtropical areas. Every year, millions of people are infected with malaria, and hundreds of thousands of people die from the disease. Most people who die from malaria are young children in Africa. While malaria is found in more than 87 countries, most infections and deaths happen in Africa. Malaria is rare in the United States. But U.S. citizens who travel to Africa and other tropical countries are at risk for getting infected.Other names: malaria blood smear, malaria rapid diagnostic test, malaria by PCR",
+        "testCurrFee": "45",
+        "testPrevFee": "95",
+        "testIcon": "https://i.ibb.co/XZh3JbY/malaria-test-icon.png",
+        "testImg": "https://i.ibb.co/sby9dGv/malaria-test.jpg"
+    },
+    {
+        "testId": "09",
+        "testName": "PCR Tests",
+        "testDesc": "PCR (polymerase chain reaction) tests are a fast, highly accurate way to diagnose certain infectious diseases and genetic changes. The tests work by finding the DNA or RNA of a pathogen (disease-causing organism) or abnormal cells in a sample.",
+        "testFullDesc": "PCR (polymerase chain reaction) tests are a fast, highly accurate way to diagnose certain infectious diseases and genetic changes. The tests work by finding the DNA or RNA of a pathogen (disease-causing organism) or abnormal cells in a sample. DNA is the genetic material that contains instructions and information for all living things. RNA is another type of genetic material. It contains information that has been copied from DNA and is involved in making proteins. Most viruses and other pathogens contain DNA or RNA.Unlike many other tests, PCR tests can find evidence of disease in the earliest stages of infection. Other tests may miss early signs of disease because there aren't enough viruses, bacteria, or other pathogens in the sample, or your body hasn't had enough time to develop an antibody response. Antibodies are proteins made by your immune system to attack foreign substances, such as viruses and bacteria. PCR tests can detect disease when there is only a very small amount of pathogens in your body.During a PCR test, a small amount of genetic material in a sample is copied multiple times. The copying process is known as amplification. If there are pathogens in the sample, amplification will make them much easier to see.Other names: polymerase chain reaction, rtPCR, reverse transcription PCR, qPCR, quantitative PCR, real-time PCR",
+        "testCurrFee": "275",
+        "testPrevFee": "435",
+        "testIcon": "https://i.ibb.co/CsFG0F7/pcr-test-icon.png",
+        "testImg": "https://i.ibb.co/cc2JcCr/pcr-test.jpg"
+    },
+    {
+        "testId": "10",
+        "testName": "MRI Scan",
+        "testDesc": "Magnetic resonance imaging (MRI) is a type of scan that uses strong magnetic fields and radio waves to produce detailed images of the inside of the body.An MRI scanner is a large tube that contains powerful magnets. You lie inside the tube during the scan.",
+        "testFullDesc": "During an MRI scan, you lie on a flat bed that's moved into the scanner.Depending on the part of your body being scanned, you'll be moved into the scanner either head first or feet first.Picture of a person having an MRI scanCredit:The MRI scanner is operated by a radiographer, who is trained in carrying out imaging investigations.They control the scanner using a computer, which is in a different room, to keep it away from the magnetic field generated by the scanner.You'll be able to talk to the radiographer through an intercom and they'll be able to see you on a television monitor throughout the scan.At certain times during the scan, the scanner will make loud tapping noises. This is the electric current in the scanner coils being turned on and off.You'll be given earplugs or headphones to wear.It's very important to keep as still as possible during your MRI scan.The scan lasts 15 to 90 minutes, depending on the size of the area being scanned and how many images are taken.Read more about how an MRI scan is performed.How does an MRI scan work?Most of the human body is made up of water molecules, which consist of hydrogen and oxygen atoms.At the centre of each hydrogen atom is an even smaller particle called a proton. Protons are like tiny magnets and are very sensitive to magnetic fields.When you lie under the powerful scanner magnets, the protons in your body line up in the same direction, in the same way that a magnet can pull the needle of a compass.Short bursts of radio waves are then sent to certain areas of the body, knocking the protons out of alignment.When the radio waves are turned off, the protons realign. This sends out radio signals, which are picked up by receivers.These signals provide information about the exact location of the protons in the body.They also help to distinguish between the various types of tissue in the body, because the protons in different types of tissue realign at different speeds and produce distinct signals.In the same way that millions of pixels on a computer screen can create complex pictures, the signals from the millions of protons in the body are combined to create a detailed image of the inside of the body.SafetyAn MRI scan is a painless and safe procedure. You may find it uncomfortable if you have claustrophobia, but most people are able to manage it with support from the radiographer.Going into the scanner feet first may be easier, although this isn't always possible.Extensive research has been carried out into whether the magnetic fields and radio waves used during MRI scans could pose a risk to the human body.No evidence has been found to suggest there's a risk, which means MRI scans are one of the safest medical procedures available.But MRI scans may not be recommended in certain situations. For example, if you have a metal implant fitted, such as a pacemaker or artificial joint, you may not be able to have an MRI scan.They're also not usually recommended during pregnancy.Read more about who can and can't have an MRI scan.",
+        "testCurrFee": "625",
+        "testPrevFee": "875",
+        "testIcon": "https://i.ibb.co/H22MsDn/mri-icon.png",
+        "testImg": "https://i.ibb.co/2c4c5dY/mri.jpg"
+    }
+]
+
+
+
+
+
+
+
+
