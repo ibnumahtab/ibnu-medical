@@ -1,27 +1,29 @@
 import React from 'react';
-import sectionBg from '../../img/section-bg.jpg';
 
 const AppointmentSection = () => {
     return (
-        <div
-            className=""
-            style={{
-                background: `url(${sectionBg})`,
-                backgroundAttachment: 'fixed',
-                backgroundSize: 'cover',
-            }}
-        >
-            <div className="container mx-auto py-12">
-                <h2 className="text-xl text-center text-white">
-                    Need a Doctor for Check-up?
-                </h2>
-                <h2 className="text-4xl py-4 text-white text-center">
-                    Just Make An Appointment & You're Done!
-                </h2>
-                <div className="text-center">
-                    <button className="px-4 py-2 border border-white text-white">
-                        Make An Appointment
-                    </button>
+        <div className="bg-blue-900">
+            <div className="container mx-auto py-12 flex items-center">
+                <img
+                    className="w-1/3"
+                    src="https://i.ibb.co/7RFxpbP/alert2.png"
+                    alt=""
+                />
+                <div>
+                    <h2 className="text-4xl text-white text-center">
+                        True Healthcare For Your Family!
+                    </h2>
+                    <p className="text-xl w-3/5 mx-auto text-jusify text-white py-6">
+                        Serve the community by improving the quality of life
+                        through better health. We have put protocols to protect
+                        our patients and staff while continuing to provide
+                        medically necessary care.
+                    </p>
+                    <div className="text-center">
+                        <button className="px-4 text-xl py-2 border border-white text-white">
+                            Make An Appointment
+                        </button>
+                    </div>
                 </div>
             </div>
         </div>
