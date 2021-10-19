@@ -17,10 +17,7 @@ const Header = () => {
                                 <Link to="/">Home</Link>
                             </li>
                             <li className="px-6 py-4 hover:bg-blue-200 cursor-pointer border mx-1">
-                                <Link to="/">About Us</Link>
-                            </li>
-                            <li className="px-6 py-4 hover:bg-blue-200 cursor-pointer border mx-1">
-                                <Link to="/department">Department</Link>
+                                <Link to="/about-us">About Us</Link>
                             </li>
                             <li className="px-6 py-4 hover:bg-blue-200 cursor-pointer border mx-1">
                                 <Link to="/services">Services</Link>
@@ -29,10 +26,7 @@ const Header = () => {
                                 <Link to="/doctors">Doctors</Link>
                             </li>
                             <li className="px-6 py-4 hover:bg-blue-200 cursor-pointer border mx-1">
-                                <Link to="/doctors">Tests</Link>
-                            </li>
-                            <li className="px-6 py-4 hover:bg-blue-200 cursor-pointer border mx-1">
-                                <Link to="/">Contact</Link>
+                                <Link to="/contact">Contact</Link>
                             </li>
                         </ul>
                     </nav>

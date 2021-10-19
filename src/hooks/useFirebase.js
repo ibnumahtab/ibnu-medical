@@ -24,6 +24,7 @@ const useFirebase = () => {
     const [userPassword, setUserPassword] = useState(" ");
     const [user, setUser] = useState([]);
     const [error, setError] = useState([]);
+    const [isLogin, setIsLogin] = useState([true])
 
     const getName = (e) => {
         setUserName(e.target.value);
@@ -37,27 +38,32 @@ const useFirebase = () => {
         setUserPassword(e.target.value);
     };
     const handleGoogleSignIn = () => {
+        setIsLogin(true)
         signInWithPopup(auth, googleProvider)
             .then((result) => {
                 setUser(result.user);
                 history.push("/");
             })
+            .finally(() => setIsLogin(false))
             .catch((err) => {
                 setError(err);
             });
     };
     const handleGithubSignIn = () => {
+        setIsLogin(true)
         signInWithPopup(auth, githubProvider)
             .then((result) => {
                 setUser(result.user);
                 history.push("/");
             })
+            .finally(() => setIsLogin(false))
             .catch((err) => {
                 setError(err);
             });
     };
     const registerWithEmailAndPass = (e) => {
         e.preventDefault();
+        setIsLogin(true)
         createUserWithEmailAndPassword(auth, userEmail, userPassword, userName)
             .then((result) => {
                 setUser(result.user);
@@ -66,17 +72,20 @@ const useFirebase = () => {
                 });
                 history.push("/");
             })
+            .finally(() => setIsLogin(false))
             .catch((err) => {
                 setError(err.message);
             });
     };
     const handleEmailAndPassword = (e) => {
         e.preventDefault();
+        setIsLogin(true)
         signInWithEmailAndPassword(auth, userEmail, userPassword)
             .then((result) => {
                 setUser(result.user);
                 history.push("/");
             })
+            .finally(() => setIsLogin(false))
             .catch((err) => {
                 setError(err);
             });
@@ -88,11 +97,13 @@ const useFirebase = () => {
             } else {
                 setUser({});
             }
+            setIsLogin(false)
         });
     }, [auth]);
 
     const logOut = () => {
         signOut(auth).then(() => {
+            
             setUser({});
         });
     };
@@ -108,6 +119,7 @@ const useFirebase = () => {
         logOut,
         user,
         error,
+        isLogin
     };
 };
 
