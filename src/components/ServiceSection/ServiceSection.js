@@ -6,7 +6,7 @@ import SingleService from '../SingleService/SingleService';
 const ServiceSection = () => {
     const [services] = useService();
     return (
-        <div className="border py-10 m-5 shadow-2xl">
+        <div className="border py-10 m-5 shadow-lg">
             <div className="container mx-auto p-12 px-24">
                 <h2 className="text-5xl primary-color text-center pt-4">
                     Caring For The Health Of You And Your Family.
