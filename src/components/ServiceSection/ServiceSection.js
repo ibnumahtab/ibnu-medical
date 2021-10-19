@@ -4,32 +4,31 @@ import useService from '../../hooks/useService';
 import SingleService from '../SingleService/SingleService';
 
 const ServiceSection = () => {
-    const [services] = useService()
+    const [services] = useService();
     return (
-        <div className='bg-gray-200'>
-            <div className='container mx-auto py-12'>
-                <p className='text-lg text-center'>
-                    The Best Medical And General Practice Care!
+        <div className="border py-10 m-5 shadow-2xl">
+            <div className="container mx-auto p-12 px-24">
+                <h2 className="text-5xl primary-color text-center pt-4">
+                    Caring For The Health Of You And Your Family.
+                </h2>
+                <p className="w-2/3 text-lg leading-8 mx-auto py-4 pb-10 text-center">
+                    Health caring elicits trust, fuller patient disclosure, and
+                    accurate assessment of the goals of care. It heightens
+                    patient satisfaction and decreases the likelihood of
+                    complaints or litigation. Health caring might even enhance
+                    job satisfaction.
                 </p>
-                <h2 className='text-4xl primary-color text-center font-bold my-4'>
-                    Total Health Care Solutions
-                </h2>
-                <h2 className='text-2xl text-center pb-8'>
-                    Providing Medical Care For The Sickest In Our Community.
-                </h2>
-                <div className='grid grid-cols-3 gap-4'>
-                    {services.slice(0, 6).map((service) => (
+                <div className="grid grid-cols-3 gap-4">
+                    {services.slice(0, 6).map(service => (
                         <SingleService
                             key={service.id}
                             service={service}
                         ></SingleService>
                     ))}
                 </div>
-                <div className='text-center mt-8'>
-                    <button className='bg-color rounded px-4 py-1 text-white'>
-                        <Link to="/services">
-                            Visit All Our Services
-                        </Link>
+                <div className="text-center mt-10">
+                    <button className="bg-color rounded px-4 py-2 text-lg text-white">
+                        <Link to="/services">All Services</Link>
                     </button>
                 </div>
             </div>
