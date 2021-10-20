@@ -3,7 +3,7 @@ import React from 'react';
 const FooterTop = () => {
     return (
         <div>
-            <div className="container py-12 mx-auto">
+            <div className="container py-12 mx-auto border-t-4">
                 <div className="grid md:grid-cols-3 gap-8 grid-cols-1">
                     <div className="m-5">
                         <img
