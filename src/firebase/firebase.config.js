@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBylXhVzq9sDOwLCdXAb7H82M-BwiokJnM",
-    authDomain: "doc-house-rin.firebaseapp.com",
-    projectId: "doc-house-rin",
-    storageBucket: "doc-house-rin.appspot.com",
-    messagingSenderId: "212866876112",
-    appId: "1:212866876112:web:598d3769166ff5930b94d5",
+    apiKey: 'AIzaSyCqH0mw-SBX7C80mFyqdvNMiMuJFFyk7L8',
+    authDomain: 'ibnu-medical-assignment.firebaseapp.com',
+    projectId: 'ibnu-medical-assignment',
+    storageBucket: 'ibnu-medical-assignment.appspot.com',
+    messagingSenderId: '433930748685',
+    appId: '1:433930748685:web:8878cdf93664fe0e546644',
 };
 
 export default firebaseConfig;

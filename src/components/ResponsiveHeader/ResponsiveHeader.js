@@ -37,8 +37,8 @@ const ResponsiveHeader = ({ fixed }) => {
                                 }
                                 id="example-navbar-info"
                             >
-                                <ul className="flex flex-col lg:flex-row list-none lg:ml-auto font-semibold">
-                                    <li className="nav-item">
+                                <ul className="flex flex-col w-full md:w-max md:flex-row list-none md:ml-auto font-semibold">
+                                    <li className="nav-item;">
                                         <Link
                                             className="flex items-center uppercase font-bold leading-snug primary-color hover:opacity-75 px-6 py-4 hover:bg-blue-200 cursor-pointer border mx-1 text-lg"
                                             to="/"

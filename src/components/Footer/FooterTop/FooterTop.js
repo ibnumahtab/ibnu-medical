@@ -5,12 +5,13 @@ const FooterTop = () => {
         <div>
             <div className="container py-12 mx-auto">
                 <div className="grid md:grid-cols-3 gap-8 grid-cols-1">
-                    <div className="">
+                    <div className="m-5">
                         <img
+                        className="w-full md:w-2/3"
                             src="https://i.ibb.co/ZVJXcnq/Ibnu-Medical-Center-Logo.png"
                             alt=""
                         />
-                        <p className="py-4">
+                        <p className="py-4 text-lg">
                             Our goal is to deliver quality of care in a
                             courteous, respectful, and compassionate manner. We
                             hope you will allow us to care for you and strive to
@@ -19,7 +20,7 @@ const FooterTop = () => {
                         </p>
                     </div>
 
-                    <div className="border rounded-lg p-8">
+                    <div className="border mx-10 md:mx-0 rounded-lg p-8">
                         <div className="text-center">
                             <h2 className="text-2xl">Quick Contacts</h2>
                             <p className="pb-5">
@@ -33,7 +34,7 @@ const FooterTop = () => {
                             </p>
                         </div>
                     </div>
-                    <div className="border rounded-lg p-8">
+                    <div className="border mx-10 md:mx-0 rounded-lg p-8">
                         <div className="text-center">
                             <h2 className="text-2xl">Quick Contacts</h2>
                             <p className="pb-5">

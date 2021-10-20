@@ -7,14 +7,12 @@ const SingleService = () => {
     const [services] = useService([]);
     const service = services?.find(ser => ser.id === id);
     return (
-        <div>
-            <div className="container mx-auto">
-                <div className="text-center pt-12">
-                    <img className="inline-block" src={service?.image} alt="" />
-                    <h2 className="text-4xl py-8 text-white">
-                        {service?.title}
-                    </h2>
-                    <p className="text-white">{service?.detailDesc}</p>
+        <div className="">
+            <div className="container mx-auto md:mb-24 border md:w-3/6 p-12 md:p-20">
+                <div className="text-justify">
+                    <img className="md:w-40 w-20 mx-auto" src={service?.image} alt="" />
+                    <h2 className="text-2xl text-center md:text-justify md:text-4xl py-8">{service?.title}</h2>
+                    <p className="text-lg md:text-xl">{service?.detailDesc}</p>
                 </div>
             </div>
         </div>
