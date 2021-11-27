@@ -20,6 +20,20 @@ Ibnu Medical Center is for Humanity. We care about your healthy life. Medical ca
 -   Google Authentication
 -   GitHub Authentication
 -   Firebase
+-   Add Booking Service 
+-   Order, Pending Status 
+-   User Order cancellation etc.
+
+##  Tools 
+-   ReactJS 
+-   NodeJS 
+-   ExpressJS 
+-   MongoDB 
+-   Firebase etc.
+
+##  Extras
+-   Responsive 
+-   Image and Code Optimized
 
 ## FAQ
 
